@@ -17,7 +17,7 @@
     "chance": "^1.0.4",
     "commander": "^2.9.0",
     "extend": "^3.0.0",
-    "http-proxy": "^1.14.0",
+    "http-proxy": "^1.18.1",
     "node-status": "1.0.0",
     "phantomjs-prebuilt": "^2.1.7",
     "selenium-standalone": "^6.5.0",
