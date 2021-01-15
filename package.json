@@ -14,7 +14,7 @@
     "clickmonkey": "./clickmonkey.js"
   },
   "dependencies": {
-    "chance": "^1.0.4",
+    "chance": "^1.1.7",
     "commander": "^2.9.0",
     "extend": "^3.0.0",
     "http-proxy": "^1.14.0",
