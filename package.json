@@ -20,7 +20,7 @@
     "http-proxy": "^1.14.0",
     "node-status": "1.0.0",
     "phantomjs-prebuilt": "^2.1.7",
-    "selenium-standalone": "^6.5.0",
+    "selenium-standalone": "^6.23.0",
     "webdriverio": "^4.13.2"
   }
 }
