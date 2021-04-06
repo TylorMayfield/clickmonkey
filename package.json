@@ -21,6 +21,6 @@
     "node-status": "1.0.0",
     "phantomjs-prebuilt": "^2.1.7",
     "selenium-standalone": "^6.5.0",
-    "webdriverio": "^4.13.2"
+    "webdriverio": "^4.14.4"
   }
 }
